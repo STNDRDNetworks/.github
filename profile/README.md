@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://stndrdnetworks.com">
     <img
-      src="https://raw.githubusercontent.com/STNDRD-Networks/.github/main/profile/assets/stndrd-symbol-color-512px.png"
+      src="https://raw.githubusercontent.com/STNDRDNetworks/.github/main/profile/assets/stndrd-symbol-color-512px.png"
       alt="STNDRD Networks"
       width="104"
     />
