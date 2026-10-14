@@ -1,27 +1,55 @@
-# STNDRD Networks
+<p align="center">
+  <a href="https://stndrdnetworks.com">
+    <img
+      src="https://raw.githubusercontent.com/STNDRD-Networks/.github/main/profile/assets/stndrd-symbol-color-512px.png"
+      alt="STNDRD Networks"
+      width="104"
+    />
+  </a>
+</p>
 
-**Security infrastructure and compliance software for modern businesses.**
+<h1 align="center">STNDRD Networks</h1>
 
-STNDRD Networks builds security-focused products and services designed to help organizations strengthen their infrastructure, understand risk, and operate with confidence.
+<p align="center">
+  <strong>Security infrastructure and compliance software for modern businesses.</strong>
+</p>
 
-## Products
-
-### STNDRD Compliance
-
-A security and compliance platform designed to help organizations manage controls, evidence, personnel access, vendor risk, policies, incidents, reporting, and ongoing compliance operations from one place.
-
-## What we focus on
-
-- Security & compliance
-- Network visibility
-- Identity & access
-- Risk management
-- Security operations
-
-## Learn more
-
-Visit [https://stndrdnetworks.com] to learn more about STNDRD Networks and our products.
+<p align="center">
+  <a href="https://stndrdnetworks.com">Website</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:info@stndrdnetworks.com">Contact</a>
+</p>
 
 ---
 
-© STNDRD Networks LLC
+## About STNDRD Networks
+
+STNDRD Networks builds security-focused products and services that help organizations strengthen their infrastructure, understand risk, and operate with confidence.
+
+We focus on practical security, clear operational visibility, and software that turns complex security and compliance work into manageable business processes.
+
+## STNDRD Compliance
+
+**STNDRD Compliance** is our security and compliance platform for managing the operational work behind a security program.
+
+It brings controls, evidence, personnel access, vendor risk, policies, incidents, reporting, and ongoing compliance activities into one place.
+
+## What we build
+
+- Security and compliance software
+- Network and infrastructure visibility
+- Identity and access workflows
+- Risk and operational oversight
+- Security-focused business services
+
+## Public projects
+
+Our core product repositories are private.
+
+Public developer tools, integrations, examples, and other resources will appear here as they are released.
+
+---
+
+<p align="center">
+  <a href="https://stndrdnetworks.com"><strong>stndrdnetworks.com</strong></a>
+</p>
